@@ -16,7 +16,6 @@ A simple Pong game built using Python's `turtle` module. This project follows Ob
 ## Features
 ✅ Smooth paddle and ball movement  
 ✅ Score tracking system  
-✅ Simple AI logic for autonomous paddle (optional)  
 ✅ Classic Pong gameplay experience  
 
 ## Installation & Running the Game
