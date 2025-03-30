@@ -32,7 +32,6 @@ screen.onkeypress(bar2.move_f, "Up")
 screen.onkeypress(bar2.move_b, "Down")
 screen.onkeypress(bar1.move_f, "w")
 screen.onkeypress(bar1.move_b, "s")
-screen.onkeypress(screen.bye, "e")
 
 while True:
     time.sleep(ball.movespeed)

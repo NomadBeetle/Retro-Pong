@@ -12,7 +12,6 @@ A simple Pong game built using Python's `turtle` module. This project follows Ob
 - Player 2 (Right Paddle):
   - **Move Up**: `Up Arrow`
   - **Move Down**: `Down Arrow`
-- **Exit the Game**: Press `E`
 
 ## Features
 ✅ Smooth paddle and ball movement  
